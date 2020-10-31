@@ -6,5 +6,5 @@ GitHub Finder use GitHub API to fetch user profile and repos by username
 - GitHub API
 - Bootstrap
 - fetch api
-- async await
+- async/await
 - OOP
